@@ -1,0 +1,23 @@
+{
+  "name": "basic-express-server",
+  "version": "1.0.0",
+  "description": "My first time using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoloveneziale/basic-express-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoloveneziale/basic-express-server/issues"
+  },
+  "homepage": "https://github.com/nicoloveneziale/basic-express-server#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
